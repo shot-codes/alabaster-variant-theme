@@ -1,5 +1,5 @@
 {
-    "name": "as",
+    "name": "Alabaster Light",
     "type": "light",
     "colors": {
         "editor.background": "#f5f5f5",
@@ -8,8 +8,14 @@
         "editorLineNumber.foreground": "#9DA39A",
         "activityBar.background": "#e3e3e3",
         "activityBar.foreground": "#000000",
+        "activityBarBadge.background": "#c7c7c7",
+        "activityBarBadge.foreground": "#000000",
         "statusBar.background": "#d2d2d2",
         "statusBar.foreground": "#4c4c4c",
+        "statusBar.debuggingBackground": "#FFBC5D",
+        "statusBar.debuggingForeground": "#000",
+        "statusBar.noFolderBackground": "#7A3E9D",
+        "statusBar.noFolderForeground": "#fff",
         "panel.background": "#eeeeee",
         "sideBar.background": "#efefef",
         "sideBarSectionHeader.background": "#e3e3e3",
