@@ -1,0 +1,22 @@
+{
+    "publisher": "NicolaiVerbaarschot",
+    "name": "alabaster-dark-theme",
+    "displayName": "Alabaster Dark Theme",
+    "description": "An implementation of Tonskys Alabster theme.",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.62.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Alabaster Dark",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Alabaster Dark-color-theme.json"
+            }
+        ]
+    }
+}
