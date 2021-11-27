@@ -1,9 +1,13 @@
 {
     "publisher": "NicolaiVerbaarschot",
-    "name": "alabaster-dark-theme",
-    "displayName": "Alabaster Dark Theme",
-    "description": "An implementation of Tonskys Alabster theme.",
-    "version": "0.0.1",
+    "name": "alabaster-variant-theme",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/TheFoolishPupil/alabaster-variant-theme.git"
+    },
+    "displayName": "Alabaster Variant Theme",
+    "description": "A theme set inspired by Tonsky's Alabaster",
+    "version": "0.0.3",
     "engines": {
         "vscode": "^1.62.0"
     },
@@ -16,6 +20,11 @@
                 "label": "Alabaster Dark",
                 "uiTheme": "vs-dark",
                 "path": "./themes/Alabaster Dark-color-theme.json"
+            },
+            {
+                "label": "Alabaster Light",
+                "uiTheme": "vs",
+                "path": "./themes/Alabaster Light-color-theme.json"
             }
         ]
     }
