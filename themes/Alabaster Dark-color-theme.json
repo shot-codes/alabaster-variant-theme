@@ -160,7 +160,7 @@
 				"meta.group.braces.curly constant.other.object.key.js string.unquoted.label.js"
 			],
 			"settings": {
-				"foreground": "#C3E88D"
+				"foreground": "#C3E88D",
 			}
 		},
 		{
@@ -561,6 +561,15 @@
 			],
 			"settings": {
 				"foreground": "#e7e7e7"
+			}
+		},
+        {
+			"name": "Keyword",
+			"scope": [
+				"entity.other.attribute-name.class.pug",
+			],
+			"settings": {
+              "foreground": "#979797"
 			}
 		},
 	]
