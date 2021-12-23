@@ -7,7 +7,7 @@
     },
     "displayName": "Alabaster Variant Theme",
     "description": "A theme set inspired by Tonsky's Alabaster",
-    "version": "0.0.5",
+    "version": "0.0.6",
     "engines": {
         "vscode": "^1.62.0"
     },
