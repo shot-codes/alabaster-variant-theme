@@ -1,6 +1,6 @@
 # Alabaster Variant theme
 
-![sample-image](images/light-dark.png)
+![screenshot](https://shot.codes/project-images/alabaster-variant-theme/screenshot.png)
 
 This theme is inspired by the motivation of [Tonsky's Alabaster](https://github.com/tonsky/sublime-scheme-alabaster). In fact, most of the light variant of this theme is lifted from [his own extension](https://marketplace.visualstudio.com/items?itemName=tonsky.theme-alabaster). I decided to make this theme for two main reasons:
 
